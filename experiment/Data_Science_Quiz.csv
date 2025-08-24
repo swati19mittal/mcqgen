@@ -1,0 +1,7 @@
+MCQ,Choices,Correct
+"Which of the following is a core type of Machine Learning that trains models on labeled data to predict or classify new, unseen data?",a: Supervised Learning | b: Unsupervised Learning | c: Reinforcement Learning | d: Self-Supervised Learning,a
+Which of the following Machine Learning approach combines a small amount of labeled data with a large amount of unlabeled data?,a: Supervised Learning | b: Unsupervised Learning | c: Reinforcement Learning | d: Semi-Supervised Learning,d
+"In which type of Machine Learning does the model learn through trial and error to maximize rewards, ideal for decision-making tasks?",a: Supervised Learning | b: Unsupervised Learning | c: Reinforcement Learning | d: Self-Supervised Learning,c
+"Which of the following Machine Learning techniques generates its own labels from the data, without any manual labeling?",a: Supervised Learning | b: Unsupervised Learning | c: Reinforcement Learning | d: Self-Supervised Learning,d
+Which of the following is a subset of unsupervised learning but has grown into its own field due to its success in training large-scale models?,a: Supervised Learning | b: Unsupervised Learning | c: Reinforcement Learning | d: Self-Supervised Learning,d
+  
