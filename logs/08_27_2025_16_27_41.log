@@ -1,0 +1,5 @@
+[2025-08-27 16:28:47,802] 293 langchain_core.callbacks.manager - WARNING - Error in StdOutCallbackHandler.on_chain_start callback: AttributeError("'NoneType' object has no attribute 'get'")
+[2025-08-27 16:28:47,803] 293 langchain_core.callbacks.manager - WARNING - Error in StdOutCallbackHandler.on_chain_start callback: AttributeError("'NoneType' object has no attribute 'get'")
+[2025-08-27 16:28:51,099] 1025 httpx - INFO - HTTP Request: POST https://api.together.ai/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-08-27 16:28:51,135] 293 langchain_core.callbacks.manager - WARNING - Error in StdOutCallbackHandler.on_chain_start callback: AttributeError("'NoneType' object has no attribute 'get'")
+[2025-08-27 16:28:55,934] 1025 httpx - INFO - HTTP Request: POST https://api.together.ai/v1/chat/completions "HTTP/1.1 200 OK"
